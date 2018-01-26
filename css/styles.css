@@ -1,11 +1,11 @@
 body {
   text-align: center;
-  background: lightblue url("../img/dino.png")no-repeat fixed left;
+  background: lightblue url("../img/dino.png") no-repeat fixed bottom left;
   font-family: fantasy;
   font-weight: bold;
   font-size: 150%;
-
 }
+
 h1{
   font-size: 70pt;
   margin-top: 47px;
